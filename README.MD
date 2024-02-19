@@ -13,5 +13,11 @@
 ## Run application:
 
 - Get signature from market: https://dexscreener.com/solana/8d4ed1uc96qcvtrzx68e3swrznv5jzqpmth3gwyy7xwa
-- Run: `yarn dev [signature]`
+- Run:
+
+```
+yarn install
+yarn dev [signature]
+```
+
 - Note: Currently only support PEPE/SOL market
